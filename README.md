@@ -1,0 +1,2 @@
+# Reimagining-Credit-Underwriting-with-Zero-Knowledge-Proofs
+Traditional lending forces borrowers to expose private financial data — income, debts, credit score — just to prove they’re eligible for a loan. What if we could prove creditworthiness without revealing a single number?  I’ve been working on a production-hardened zk-SNARK circuit that does exactly that. Built in Noir, it allows a borrower to prove 
